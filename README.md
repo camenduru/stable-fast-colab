@@ -13,4 +13,5 @@ https://github.com/chengzeyi/stable-fast
 
 ## Output
 
-![Screenshot 2023-10-18 000823](https://github.com/camenduru/stable-fast-colab/assets/54370274/030f41b6-f041-4e6f-960c-a4da4d56b0bc)
+https://github.com/camenduru/stable-fast-colab/assets/54370274/d72e09ee-815a-4e09-8e2f-32e9fca12a1d
+
