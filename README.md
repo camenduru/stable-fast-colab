@@ -6,7 +6,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-fast-colab/blob/main/stable_fast_colab.ipynb) | stable_fast_colab (For T4)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chengzeyi/stable-fast-colab/blob/main/stable_fast_colab.ipynb) | stable_fast_colab (Author Colab) (New)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-fast-colab/blob/main/stable_fast_colab.ipynb) | stable_fast_colab (Old)
 
 ## Main Repo
 https://github.com/chengzeyi/stable-fast
