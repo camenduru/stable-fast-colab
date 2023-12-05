@@ -26,4 +26,6 @@ https://github.com/chengzeyi/stable-fast
 
 ## Output
 
+![Screenshot](Screenshot.png)
+
 https://github.com/camenduru/stable-fast-colab/assets/54370274/d72e09ee-815a-4e09-8e2f-32e9fca12a1d
