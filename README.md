@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This is a solab for running `StableDiffusionPipeline` with [`stable-fast`](https://github.com/chengzeyi/stable-fast) inference acceleration.
+This is a Colab for running `StableDiffusionPipeline` with [`stable-fast`](https://github.com/chengzeyi/stable-fast) inference acceleration.
 `stable-fast` is one of the fastest inference acceleration frameworks for `diffusers`.
 It acheieves best performance with newer GPUs.
 On Colab __T4__, it can also speedup the image generation significantly, but won't be as fast as with __A100__ or __4090__.
